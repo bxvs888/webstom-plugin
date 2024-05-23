@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.bxvs888.webstomplugin
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
